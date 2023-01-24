@@ -57,4 +57,8 @@ As an exercise in software engineering, there was no dataset tied to this projec
 
 ## Visualisation of Epidemic Data
 
-Data concerning the results of simulations of an airborne disease outbreak were given. 
+Data concerning the results of simulations of an airborne disease outbreak were given. The simulation modelled the outbreak area as a grid of cells, and the output data for each simulation contained information such as cell population, infected count and various uncertainty statistics. The task was to visualise the uncertainty and impact of the outbreak, firstly across a single simulation and then generalising to an arbitrary number of simulations, through the use of interactive dashboards.
+
+| **Languages/Applications** | **Major Libraries** |
+|----------------------------|---------------------|
+| Power BI                   | _None_              |
