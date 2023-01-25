@@ -3,9 +3,16 @@ A repository containing coursework completed over the course of my MSc in Data S
 
 Each project is described below by a narrative of the provided data, its objective and any methods used.
 
-Most of the projects processed a given dataset in some way. Due to licencing issues around distributing datasets, the datasets themselves have been omitted in every case.
+Most of the projects processed a given dataset in some way. Some datasets have been omitted in the publishing of the projects, due to licencing issues.
 
 As I am still studying the course, this repository is unfinished and will be updated as projects are completed.
+
+Currently in the process of uploading:
+- Machine Learning Analyses of Twitter & Weather Data
+- Application of Learning Analytics to 'Massive Online Open Course' Data
+- Time Series Analysis & Forecasting of Monthly Product Sales
+- Classification of Breast Tissue Samples using Statistical Methods
+- Visualisation of Epidemic Data
 
 ## Machine Learning Analyses of Twitter & Weather Data
 
