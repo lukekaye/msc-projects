@@ -25,7 +25,7 @@ A time series of minutely data spanning approximately 13 months was given. It co
   
 ## Application of Learning Analytics to 'Massive Online Open Course' Data
 
-Data from seven runs of a 'massive online open course' were given. Information on students, course engagement and the course itself were available. The task was unrestricted in nature: to gather any insights that may be useful to a provider of a course alike the one described in the data, while completing two cycles of CRISP-DM i.e. the 'Cross-industry standard process for data mining'. The dataset was unedited and inherently noisy; there was therefore a strong emphasis placed on proper exploration and preprocessing. The production of a short recorded presentation describing the analysis was also required.
+Data from seven runs of a 'massive online open course' were given. Information on students, course engagement and the course itself were available. The task was unrestricted in nature: to gather any insights that may be useful to a provider of a course alike the one described in the data, while completing two cycles of CRISP-DM i.e. the 'Cross-industry standard process for data mining'. The dataset was unedited and inherently noisy; there was therefore a strong emphasis placed on proper exploration and preprocessing.
 
 | **Languages/Applications**   | **Major Libraries**                                     |
 |------------------------------|---------------------------------------------------------|
@@ -33,7 +33,7 @@ Data from seven runs of a 'massive online open course' were given. Information o
 
 ## Time Series Analysis & Forecasting of Monthly Product Sales
 
-A time series was provided, intended to represent monthly sales of an unspecified product over ten years. The task given was to fit a variety of statistical models to the data and forecast for a period of six months beyond the time series, selecting a final model to do so. The production of a short recorded presentation describing the analysis was also required. Two mathematical questions in time series theory were given to solve.
+A time series was provided, intended to represent monthly sales of an unspecified product over ten years. The task given was to fit a variety of statistical models to the data and forecast for a period of six months beyond the time series, selecting a final model to do so. Two mathematical questions in time series theory were given to solve.
 
 | **Languages/Applications**   | **Major Libraries** |
 |------------------------------|---------------------|
@@ -41,7 +41,7 @@ A time series was provided, intended to represent monthly sales of an unspecifie
 
 ## Classification of Breast Tissue Samples using Statistical Methods
 
-Data concerning cytological characteristics of breast tissue samples collected from women were provided. Each sample had additionally been labelled with whether it was cancerous or not, as _benign_ or _malignant_. The task was to build multiple classifiers for the data, with careful use of cross-validation to contrast the fitted classifiers. The production of a short recorded presentation describing the analysis was also required. A mathematical question relating to logistic regression and linear discriminant analysis was given to solve.
+Data concerning cytological characteristics of breast tissue samples collected from women were provided. Each sample had additionally been labelled with whether it was cancerous or not, as _benign_ or _malignant_. The task was to build multiple classifiers for the data, with careful use of cross-validation to contrast the fitted classifiers. A mathematical question relating to logistic regression and linear discriminant analysis was given to solve.
 
 | **Languages/Applications** | **Major Libraries**                |
 |----------------------------|------------------------------------|
