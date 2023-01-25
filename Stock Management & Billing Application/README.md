@@ -1,5 +1,5 @@
 ﻿
-# Stock System Tool
+# Stock Management & Billing Application
 
 ## Overview
 
