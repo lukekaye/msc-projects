@@ -12,7 +12,6 @@ Currently in the process of uploading:
 - Application of Learning Analytics to 'Massive Online Open Course' Data
 - Time Series Analysis & Forecasting of Monthly Product Sales
 - Classification of Breast Tissue Samples using Statistical Methods
-- Visualisation of Epidemic Data
 
 ## Machine Learning Analyses of Twitter & Weather Data
 
