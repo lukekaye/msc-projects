@@ -2,7 +2,8 @@
 
 ## Overview 
 
-This directory contains an analysis on data derived from a free course provided by a university, relating to the subject
+This directory contains an analysis, performed using R and written using R Markdown, on data derived from a free course 
+provided by a university, relating to the subject
 of safety while using technology and the internet. The report details insights into how a stakeholder interested in the
 course may improve engagement with future students. Use of good data mining practice, outlined by the CRISP-DM methodology,
 is considered for this purpose, including attention to reproducibility. The analysis is explained in
@@ -25,10 +26,10 @@ The following R libraries are required for the analysis:
 Afterwards, the remaining libraries will be installed automatically when the analysis is run.
 
 After `countreg` is installed, the main analysis can be viewed by entering the `reports` subdirectory and running `main_report.Rmd`, an
-RMarkdown file that details the content of the analysis. This RMarkdown file also contains excerpts of code that serve as part of the
+R Markdown file that details the content of the analysis. This R Markdown file also contains excerpts of code that serve as part of the
 analysis. Alternatively, the main analysis can be viewed in `.pdf` form within this same subdirectory under `main_report.pdf`.
 
-This RMarkdown file, within the body of its content, details fully how the analysis works with the subdirectories within this directory,
+This R Markdown file, within the body of its content, details fully how the analysis works with the subdirectories within this directory,
 however we briefly outline it here too.
 - `cache`: stores cached versions of all of the raw data files and partially or fully preprocessed data, for faster loading with R
 - `config`: stores the configuration file for this analysis, the load order of the libraries within this file should not be changed
@@ -45,5 +46,5 @@ In short:
 
 You may find you need to set your R working directory to this directory if the analysis or `ProjectTemplate` doesn't load properly.
 
-If you wish to generate the `.pdf` main report file again using the RMarkdown file, you will need an installation of LaTeX on your system. A
+If you wish to generate the `.pdf` main report file again using the R Markdown file, you will need an installation of LaTeX on your system. A
 simple solution for this can be reached by running `install.packages('tinytex')` then `tinytex::install_tinytex()` within R.
