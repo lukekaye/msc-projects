@@ -3,13 +3,13 @@
 ## Overview 
 
 This directory contains an analysis on data derived from a free course provided by a university, relating to the subject
-of safety while using technology and the internet. The general goal was to produce insights relevant to a stakeholder
-interested in the course, e.g. to improve the delivery of the course to future students, and to employ good data mining
-practice including consideration of reproducibility. The analysis is explained in
+of safety while using technology and the internet. The report details insights into how a stakeholder interested in the
+course may improve engagement with future students. Use of good data mining practice, outlined by the CRISP-DM methodology,
+is considered for this purpose, including attention to reproducibility. The analysis is explained in
 detail in a 20-page report that can be found in the `reports` subdirectory, thus explanation of the project is minimised
 here.
 
-To simply view the report and its results in `.pdf` or `.Rmd` format, no libraries need to be installed; installation of
+To simply view the report and its results in `.pdf` format, no libraries need to be installed; installation of
 libraries only applies if you wish to reproduce the analysis itself.
 
 ## Directory Content & How to Run the Analysis
