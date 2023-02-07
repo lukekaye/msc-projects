@@ -9,7 +9,6 @@ As I am still studying the course, this repository is unfinished and will be upd
 
 Currently in the process of uploading:
 - Machine Learning Analyses of Twitter & Weather Data
-- Time Series Analysis & Forecasting of Monthly Product Sales
 
 ## Machine Learning Analyses of Twitter & Weather Data
 
