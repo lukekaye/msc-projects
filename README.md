@@ -5,11 +5,6 @@ Each project is described below by a narrative of the provided data, its objecti
 
 As I am still studying the course, this repository is unfinished and will be updated as projects are completed.
 
-Currently in the process of uploading:
-- Machine Learning Analyses of Twitter & Weather Data
-- Big Data Analytics for Relational & Graph Data on New York Taxi Trips
-- Bayesian Analysis of Cross Country Race Times
-
 ## Machine Learning Analyses of Twitter & Weather Data
 
 The analyses for these datasets were disjoint; they are therefore introduced separately.
