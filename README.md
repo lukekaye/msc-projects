@@ -35,7 +35,7 @@ A single dataset on the graph structure of New York was given, with associated i
 
 | **Languages/Applications**   | **Major Libraries**                                     |
 |------------------------------|---------------------------------------------------------|
-| Apache Spark<br/>Databricks<br/>Neo4j<br/>Cypher Query Language<br/>Python            | PySpark |
+| Apache Spark<br/>Databricks<br/>Neo4j<br/>Cypher Query Language<br/>Python            | PySpark<br/> Neo4j Graph Data Science library |
 
 ## Application of Learning Analytics to 'Massive Online Open Course' Data
 
