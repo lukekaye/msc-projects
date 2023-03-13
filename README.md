@@ -84,3 +84,11 @@ As an exercise in software engineering, there was no dataset tied to this projec
 | **Languages/Applications** | **Major Libraries**       |
 |----------------------------|---------------------------|
 | Python<br/> Markdown       | abc<br/> unittest<br/> os |
+
+## High-Level Business Strategy for Implementing Robots in Surgical Procedures
+
+This project entailed detailing how a business could implement a data science solution to improve some facet of their operation, written up as a report and communicated through a presentation. Working as a group of eleven people, the task was to invent a business in a given industry, a problem they were facing that they needed to solve, and how that problem could be solved using data-driven methodology. The solution presented was at a high-level, describing how a data science consultancy could quantitatively evaluate how a healthcare company could stratify an implementation of robots in surgical procedures at their hospitals, for economic and social gain. Emphasis was placed on deriving a solution that addressed the context of the problem and the needs of the business.
+
+| **Languages/Applications** | **Major Libraries**       |
+|----------------------------|---------------------------|
+| _N/A_       | _N/A_ |
